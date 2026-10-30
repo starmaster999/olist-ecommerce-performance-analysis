@@ -29,7 +29,12 @@ Based on the dashboard and data analysis, here are the main findings:
 
 ## 📂 Repository Structure
 * `olist_revenue_quality_analysis.ipynb`: The main Python script containing the complete data wrangling, merging, and aggregation processes.
-* `cleaned_olist_sales_data_v2.csv`: The cleaned and aggregated dataset used as the data source for the Tableau dashboard.
+  
+## 💾 Data Source
+The raw dataset used in this project is the **Brazilian E-Commerce Public Dataset by Olist**. Due to GitHub's file size limits, the original raw CSV files are not uploaded to this repository. 
+
+You can access and download the complete dataset directly from Kaggle here: 
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ---
 *Prepared by Athaariq Alifsyah - Linkedin: https://www.linkedin.com/in/athaariq-alifsyah-24aa08299/*
