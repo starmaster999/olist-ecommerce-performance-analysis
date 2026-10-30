@@ -32,4 +32,4 @@ Based on the dashboard and data analysis, here are the main findings:
 * `cleaned_olist_sales_data_v2.csv`: The cleaned and aggregated dataset used as the data source for the Tableau dashboard.
 
 ---
-*Prepared by Athaariq Alifsyah - Linkedin: https://www.linkedin.com/in/athaariq-alifsyah-24aa08299/
+*Prepared by Athaariq Alifsyah - Linkedin: https://www.linkedin.com/in/athaariq-alifsyah-24aa08299/*
