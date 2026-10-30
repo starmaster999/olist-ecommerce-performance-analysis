@@ -11,25 +11,25 @@ By bridging data wrangling in Python with interactive visualization in Tableau, 
 ![Olist Tableau Dashboard](Screenshot%202026-10-30%20103511.png)
 
 ## 🛠️ Tools & Technologies Used
-* **Python (Pandas):** Data cleaning, handling missing values, dropping duplicates, merging multiple datasets (Row Explosion prevention strategy), and aggregating data based on statistical significance.
+* **Python (Pandas):** Data cleaning, handling missing values, dropping duplicates, merging multiple datasets, and aggregating data based on statistical significance.
 * **Jupyter Notebook:** Step-by-step code documentation and exploratory data analysis (EDA).
-* **Tableau Public:** Interactive data visualization, dual-axis donut charts, KPI scorecards, and time-series analysis.
+* **Tableau Public:** Interactive data visualization, pie charts, KPI scorecards, and time-series analysis.
 
 ## 📈 Key Business Insights
 Based on the dashboard and data analysis, here are the main findings:
-1. **Top Revenue Drivers:** The [Insert Top Category 1] and [Insert Top Category 2] categories are the financial backbone of the company, generating the highest total revenue among all product lines.
-2. **Product Quality Concerns:** When filtering for statistical significance (categories with >50 reviews), [Insert Worst Category] and [Insert 2nd Worst Category] emerged with the lowest average customer ratings, indicating systemic quality or expectation-matching issues.
-3. **Revenue Trends:** The time-series analysis indicates a [Insert Trend, e.g., steady growth / seasonal spike] in total sales during [Insert Month/Year], highlighting key periods for consumer demand.
-4. **Payment Preferences:** The majority of transactions are completed via [Insert Top Payment Method, e.g., Credit Card] representing [Insert %]% of total sales volume, indicating a strong consumer preference for installment or cashless payments.
+1. **Top Revenue Drivers:** The health beauty and watches gift categories are the financial backbone of the company, generating the highest total revenue among all product lines.
+2. **Product Quality Concerns:** When filtering for statistical significance (categories with >50 reviews), office furniture and fashion male clothing emerged with the lowest average customer ratings, indicating systemic quality or expectation-matching issues.
+3. **Revenue Trends:** The time-series analysis indicates a steady growth in total sales during the entirety of 2017, highlighting key periods for consumer demand.
+4. **Payment Preferences:** The majority of transactions are completed via credit card and boleto representing 94.07% of total sales volume, indicating a strong consumer preference for installment or cashless payments.
 
 ## 💡 Actionable Recommendations
 * **Marketing Optimization:** Allocate a larger portion of the digital marketing budget toward the top 3 revenue-generating categories to maximize Return on Ad Spend (ROAS).
 * **Supplier Audit:** Management must initiate an immediate quality-control review of the suppliers providing goods in the lowest-rated categories. If the low ratings are driven by product defects rather than logistics, replacing these suppliers is critical to preventing customer churn.
-* **Payment Promotions:** Since [Insert Top Payment Method] dominates the revenue stream, partnering with those specific financial providers for exclusive discounts or cashback campaigns could further boost conversion rates.
+* **Payment Promotions:** Since credit card dominates the revenue stream, partnering with those specific financial providers for exclusive discounts or cashback campaigns could further boost conversion rates.
 
 ## 📂 Repository Structure
 * `olist_revenue_quality_analysis.ipynb`: The main Python script containing the complete data wrangling, merging, and aggregation processes.
-* `cleaned_olist_sales_data_v2.csv`: The cleaned and aggregated dataset used as the data source for the Tableau dashboard. (Note: Original raw datasets are excluded due to file size limits).
+* `cleaned_olist_sales_data_v2.csv`: The cleaned and aggregated dataset used as the data source for the Tableau dashboard.
 
 ---
-*Prepared by Athaariq Alifsyah
+*Prepared by Athaariq Alifsyah - Linkedin: https://www.linkedin.com/in/athaariq-alifsyah-24aa08299/
