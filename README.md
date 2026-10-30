@@ -8,8 +8,7 @@ By bridging data wrangling in Python with interactive visualization in Tableau, 
 ## 📊 Tableau Dashboard
 **Interact with the full dashboard here:** https://public.tableau.com/views/OlistE-CommerceRevenueProductQualityAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-[*(Optional: You can add a screenshot of your Tableau dashboard here by dragging and dropping an image file into GitHub)*
-`![Dashboard Screenshot](link-to-your-image.png)`](https://github.com/starmaster999/olist-ecommerce-performance-analysis/blob/main/Screenshot%202026-10-30%20103511.png)
+![Olist Tableau Dashboard](Screenshot%202026-10-30%20103511.png)
 
 ## 🛠️ Tools & Technologies Used
 * **Python (Pandas):** Data cleaning, handling missing values, dropping duplicates, merging multiple datasets (Row Explosion prevention strategy), and aggregating data based on statistical significance.
