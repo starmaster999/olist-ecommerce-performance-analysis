@@ -6,7 +6,7 @@ This project analyzes a real-world Brazilian e-commerce dataset by Olist (contai
 By bridging data wrangling in Python with interactive visualization in Tableau, this analysis provides a strategic overview for management to optimize marketing budgets and evaluate supplier quality.
 
 ## 📊 Tableau Dashboard
-**Interact with the full dashboard here:** https://public.tableau.com/views/OlistE-CommerceRevenueProductQualityAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+**[Interact with the full dashboard here](https://public.tableau.com/views/OlistE-CommerceRevenueProductQualityAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ![Olist Tableau Dashboard](Screenshot%202026-10-30%20103511.png)
 
