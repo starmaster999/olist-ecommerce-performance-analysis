@@ -37,4 +37,4 @@ You can access and download the complete dataset directly from Kaggle here:
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ---
-*Prepared by Athaariq Alifsyah - Linkedin: https://www.linkedin.com/in/athaariq-alifsyah-24aa08299/*
+*Prepared by Athaariq Alifsyah - Linkedin: [Athaariq Alifsyah](https://www.linkedin.com/in/athaariq-alifsyah-24aa08299/)*
